@@ -1,0 +1,41 @@
+.sobre {
+  top: 100px;
+  left: 30px;
+  opacity: 0.7;
+  background-color:grey;
+  color: white;
+  transform: rotate(10deg);
+  border: 1px solid red;
+}
+
+body{
+  background-image: url(../img/fondomobpsychoultimotry.png);
+}
+
+fieldset {
+  background-color: rgb(76, 76, 92);
+  color: white;
+  padding: 0px;
+  height: 200px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+}
+
+.creador{
+  color:rgb(0, 0, 0);
+  text-align: center;
+  
+}
+.gif {
+  text-align:center;
+}
+
+.contacto {
+text-align: center;
+}
+
+
+
+
+
